@@ -1,7 +1,7 @@
 #Python-Luck_Royal_From_Prateek
 print("WELCOME TO PRATEEK'S LUCKY ROYAL {100% Garanted Gifts & Scam Free}\n")
 print("Guess an Lucky number between (1 - 10)\nTo win An Apple iPhone 15 Pro MaX '&' Apple Watch series-9\nPlease Enter Your Details To Continue\n")
-g = 9
+g = 9 
 i = 0
 l = 3
 Name = input("Name:")
